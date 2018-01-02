@@ -1,0 +1,2 @@
+# mySecondRepo
+This is new.
